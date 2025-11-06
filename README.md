@@ -1,1 +1,2 @@
-Diabetes dataset and some simple validation experiments.
+Diabetes dataset and some simple validation experiments for "A bimodal dataset for diabetes research".
+Special Note: The dataset is stored in the data folder. To ensure data security, only the first 300 data entries are displayed temporarily. Once our paper is officially accepted, the complete dataset will be uploaded. Thank you for your understanding. In addition, if you need access to the full dataset in advance, please contact our corresponding author.
